@@ -15,9 +15,9 @@ permalink: /
 What is Terradoo Cloud ?
 =========
 
-  The main objective of Terradoo Cloud is to transform Odoo into a MultiCloud-Native Business suite.
+  The main objective of Terradoo Cloud is to transform Odoo into a Multicloud Native Business suite.
 
-  With an approach based on microservices it intents to build a solution for Odoo Community on a MultiCloud-Native Architecture.
+  With an approach based on microservices it intents to build a solution for Odoo Community on a Multicloud Native Architecture.
 
   OpenERP is a well-designed software but it inherits a monolithic approach.
 
@@ -25,7 +25,7 @@ What is Terradoo Cloud ?
 
   So, ideally, it could be possible to split Odoo into microservices. But, it isn't the main goal of this project.
 
-  However, an OpenERP/Odoo based project may needs other supporting services/applications. Terradoo cloud aims to provide a seamless solution to bundle such a project as a MultiCloud-Native application. 
+  However, an OpenERP/Odoo based project may needs other supporting services/applications. Terradoo cloud aims to provide a seamless solution to bundle such a project as a Multicloud Native application. 
 
   For example, an Odoo CE based project may needs additional services for email, communication, backup, monitoring, logging, tracing, security,
   domain names, networking etc.
@@ -37,7 +37,7 @@ What is Terradoo Cloud ?
 Why ?
 =====
 
-  Because with Terradoo Cloud you can set up your own MultiCloud-Native Solution around Odoo Community.
+  Because with Terradoo Cloud you can set up your own Multicloud Native Solution around Odoo Community.
 
   Terradoo Cloud is 100% open-source with Apache License and it will be based on other open-source software projects.
 
@@ -45,9 +45,9 @@ Why ?
 How ?
 =====
 
-  Terradoo Cloud is a set of open-source software working together to build a MultiCloud-Native open-source solution for the Odoo Community.
+  Terradoo Cloud is a set of open-source software working together to build a Multicloud Native open-source solution for the Odoo Community.
 
-  You can choose your preferred Cloud Provider or set up a MultiCloud-Native Solution, Public, Private, or Hybrid.
+  You can choose your preferred Cloud Provider or set up a Multicloud Native Solution, Public, Private, or Hybrid.
 
   Putting together all technologies around Odoo Community.
 
@@ -96,11 +96,3 @@ Contribute
   4. If you are amazed with the project, I'll invite you as outside collaborator to the [Organization](https://github.com/TerradooCloud) or we can negotiate access level to the [Organization](https://github.com/TerradooCloud).
 
   5. If you prefer, you can reach me by [email](mailto:contact@terradoo.cloud). I'll be excited.
-
-
-
-
-License
-=======
-
- &copy; 2020, Owned by JuanDCG ( "Juan Del Castillo Gómez" ) and "Contributors" with Apache License 2.0
