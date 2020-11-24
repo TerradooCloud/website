@@ -1,10 +1,3 @@
----
-layout: home
-permalink: /
----
-
-{{ content }}
-
 
 What is Terradoo Cloud ?
 ========================
