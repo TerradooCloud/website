@@ -7,11 +7,6 @@ permalink: /
 
 
 
-
- 
-![Terradoo Cloud](source/_themes/images/Terradoo-cloud-new-logo.png)
-
-
 What is Terradoo Cloud ?
 =========
 
