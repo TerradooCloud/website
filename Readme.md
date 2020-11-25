@@ -81,3 +81,8 @@ Contribute
   4. If do you want to be Collaborator and Team Player, I'll invite you so let me know.
 
   5. If you prefer, you can reach me by [email](mailto:contact@terradoo.cloud). I'll be excited.
+  
+License
+=======
+
+AGPL-3.0 by "Juan Del Castillo Gómez" and "Contributors".
