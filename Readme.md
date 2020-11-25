@@ -57,20 +57,15 @@ For What ?
   So, you can design your very own solution that meets your needs based on the proposed documented experiments, coded and tested proof of concepts shared by Terradoo Cloud.
 
 
-Project Documentation Site
-==========================
+Organization
+============
 
- The [documentation site](https://documentation.terradoo.cloud/)
+### [Project Management Tool](https://github.com/orgs/TerradooCloud/projects/1)
 
+### [Project Documentation Site](https://documentation.terradoo.cloud/)
 
-Project Management
-==================
+### Contribute
 
- This Organization have a unique [Project Management Tools](https://github.com/orgs/TerradooCloud/projects/1) that is in the GitHub integrated tool.
-
-
-Contribute
-==========
 
   1. If you like this project give it a star.
 
@@ -78,7 +73,7 @@ Contribute
 
   3. If you want to add changes or improvements, Fork this repository and contribute with Pull Requests.
 
-  4. If do you want to be Collaborator and Team Player, I'll invite you so let me know.
+  4. If you want to be Collaborator and Team Player, I would like invite you, so let me know.
 
   5. If you prefer, you can reach me by [email](mailto:contact@terradoo.cloud). I'll be excited.
   
