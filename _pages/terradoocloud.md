@@ -80,6 +80,6 @@ Organization
 
   3. If you want to add changes or improvements, Fork this repository and contribute with Pull Requests.
 
-  4. If you want to be Collaborator and Team Player, I would like invite you, so let me know.
+  4. If you want to be Collaborator and Team Player, I would like to invite you, so let me know.
 
-  5. If you prefer, you can reach me by [email](mailto:contact@terradoo.cloud). I'll be excited.
+  5. You can reach me by [email](mailto:contact@terradoo.cloud).
