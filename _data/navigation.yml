@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Terradoo Cloud"
+  - title: "About"
     url: "/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Docs"
+    url: "https://documentation.terradoo.cloud/"
+  - title: "GitHub"
+    url: "https://github.com/TerradooCloud/"
