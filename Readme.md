@@ -81,3 +81,8 @@ Contribute
   4. If you want to be [Collaborator and Team Player](https://github.com/orgs/TerradooCloud/teams/terradoo-cloud-team), I'll invite you so let me know.
 
   5. If you prefer, you can reach me by [email](mailto:contact@terradoo.cloud). I'll be excited.
+  
+License
+=======
+
+AGPL by "Juan Del Castillo Gómez" and "Contributor".
