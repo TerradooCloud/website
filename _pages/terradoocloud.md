@@ -33,7 +33,7 @@ Why ?
 
   Because with Terradoo Cloud you can set up your own Multi Cloud Native Solution around Odoo Community.
 
-  Terradoo Cloud is 100% open source with Apache License and it will be based on other open source software projects.
+  Terradoo Cloud is 100% open source with AGPL-3.0 License and it will be based on other open source software projects.
 
 
 How ?
