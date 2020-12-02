@@ -5,9 +5,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Odoo Multi Cloud Native"
 title_separator          : "-"
-subtitle                 : "Terraform | Odoo | Kubernetes " # site tagline that appears below site title in masthead
+subtitle                 : "Odoo | Terraform | Kubernetes " # site tagline that appears below site title in masthead
 name                     : "Terradoo Cloud"
-description              : "Odoo Multi Cloud Native | Terraform - Odoo - Kubernetes"
+description              : "Odoo Multi Cloud Native | Odoo - Terraform - Kubernetes"
 url                      : "https://web.terradoo.cloud"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
