@@ -1,4 +1,6 @@
 
+![Terradoo Cloud Logo](assets/images/TerradooCloud-logo.png)
+
 What is Terradoo Cloud ?
 ========================
 
